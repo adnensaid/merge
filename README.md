@@ -1,2 +1,3 @@
+REMOTE
 # merge
 hello world
