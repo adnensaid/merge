@@ -1,2 +1,3 @@
+LOCAL
 # merge
 hello world
